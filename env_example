@@ -1,0 +1,2 @@
+DATABASE_SOURCE=psql://user:pass@host:port/name
+DATABASE=psql://user:pass@host:port/name
